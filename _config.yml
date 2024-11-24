@@ -11,9 +11,9 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: Dennis Roman
     url: /
-  - title: About
+  - title: Data Scientist portfolio under construction
     url: /about
   - title: Contact
     url: /contact
