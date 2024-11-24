@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://imgur.com/a/6WQgvdC
+  https://res.cloudinary.com/dnk5l7nn0/image/upload/v1732490542/Untitled_design_iliopo.png
 optimized_image: >-
-  https://imgur.com/a/6WQgvdC
+https://res.cloudinary.com/dnk5l7nn0/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1732490542/Untitled_design_iliopo.png
 category: blog
 tags:
   - welcome
