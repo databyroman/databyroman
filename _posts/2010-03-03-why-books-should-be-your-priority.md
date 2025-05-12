@@ -11,10 +11,7 @@ optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380
   <button style="padding: 10px 20px; font-size: 16px;">Launch the Calculator</button>
 </a>
 
-category: Apps
-tags:
-  - apps
-  - Finance
+
 author: Mr Roman
 paginate: true
 ---
@@ -65,18 +62,6 @@ paginate: true
     <li>Linked the app from a personal <strong>Jekyll website</strong> using a button</li>
   </ol>
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
 
 <!--page-->
 
