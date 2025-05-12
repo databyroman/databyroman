@@ -6,6 +6,13 @@ subtitle: Dividend Re-Investment Calculator App
 Description: In this project, we built a web-based stock investment calculator that shows how a stock investment grows over time, factoring in both price appreciation and reinvested dividends. This is useful for long-term investors who want to visualize the true total return of a stock, not just the price increase.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+
+category: blog
+tags:
+  - app
+  - finance
+author: mrroman
+paginate: true
 ---
 
 <a href="https://databyroman-dividend-app3-app-wk802a.streamlit.app/" target="_blank">
