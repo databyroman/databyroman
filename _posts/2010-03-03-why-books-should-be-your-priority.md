@@ -3,8 +3,9 @@ date: 2024-4-12 12:26:40
 layout: post
 title: My First Finance Web App
 subtitle: Dividend Re-Investment Calculator App
-Description: >-
-In this project, we built a web-based stock investment calculator that shows how a stock investment grows over time, factoring in both price appreciation and reinvested dividends. This is useful for long-term investors who want to visualize the true total return of a stock, not just the price increase.
+description: >-
+  In this project, we built a web-based stock investment calculator that shows how a stock investment grows over time, factoring in bothprice appreciation and reinvested dividends
+  This tool is ideal for long-term investors who want to visualize the true total return of a stock—not just its price change.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 
