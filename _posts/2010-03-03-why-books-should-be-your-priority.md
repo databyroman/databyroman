@@ -2,9 +2,11 @@
 date: 2018-11-22 12:26:40
 layout: post
 title: My First Finance Web App
-subtitle:Dividend Re-Investment Calculator App
+subtitle: Dividend Re-Investment Calculator App
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+---
+
 <a href="https://databyroman-dividend-app3-app-wk802a.streamlit.app/" target="_blank">
   <button style="padding: 10px 20px; font-size: 16px;">Launch the Calculator</button>
 </a>
