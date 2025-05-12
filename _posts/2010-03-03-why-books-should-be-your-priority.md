@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2025-5-12 12:26:40
 layout: post
 title: My First Finance Web App
 subtitle: Dividend Re-Investment Calculator App
