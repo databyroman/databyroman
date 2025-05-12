@@ -12,8 +12,6 @@ optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380
 </a>
 
 
-author: Mr Roman
-paginate: true
 ---
 
 <!--page-->
