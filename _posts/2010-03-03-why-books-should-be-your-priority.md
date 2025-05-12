@@ -1,53 +1,67 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: My First Finance Web App
+subtitle:Dividend Re-Investment Calculator App
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+<a href="https://databyroman-dividend-app3-app-wk802a.streamlit.app/" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px;">Launch the Calculator</button>
+</a>
+
+category: Apps
 tags:
-  - books
-  - read
-author: mranderson
+  - apps
+  - Finance
+author: Mr Roman
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
 <!--page-->
 
-## Inline HTML elements
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
 
-Most of these elements are styled by browsers with few modifications on our part.
 
-<!--page-->
 
-# Heading 1
+<section>
+  <h2>💡 Building a Dividend Growth Calculator with Streamlit and Jekyll</h2>
 
-## Heading 2
+  <h3>🔧 Project Summary</h3>
+  <p>
+    In this project, we built a <strong>web-based stock investment calculator</strong> that shows how a stock investment grows over time, factoring in both <strong>price appreciation</strong> and <strong>reinvested dividends</strong>. 
+    This tool is ideal for long-term investors who want to visualize the <strong>true total return</strong> of a stock—not just its price change.
+  </p>
 
-### Heading 3
+  <h3>🎯 What the App Does</h3>
+  <ul>
+    <li>Accepts a <code>stock symbol</code> (e.g., AAPL or MSFT) and an <strong>initial investment amount</strong></li>
+    <li>Lets users select a <strong>time period</strong> with a slider (e.g., 5, 10, or 20 years)</li>
+    <li>Fetches historical price and dividend data using <code>yfinance</code></li>
+    <li>Calculates total portfolio value assuming <strong>automatic dividend reinvestment</strong></li>
+    <li>Displays:
+      <ul>
+        <li>Final portfolio value</li>
+        <li>Total return percentage</li>
+        <li>A line chart showing growth over time</li>
+      </ul>
+    </li>
+  </ul>
 
-#### Heading 4
+  <p>
+    The result is a visual, interactive demonstration of how powerful <strong>compounding dividends</strong> can be for long-term investors.
+  </p>
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
+  <h3>🛠️ How We Built It</h3>
+  <ol>
+    <li>Built the app locally using <strong>Streamlit</strong> and <strong>VS Code</strong></li>
+    <li>Used <code>yfinance</code> to pull historical price and dividend data</li>
+    <li>Wrote Python logic to simulate dividend reinvestment over time</li>
+    <li>Created an interactive interface using Streamlit (text input, sliders, charts)</li>
+    <li>Deployed the app for free on <strong>Streamlit Cloud</strong></li>
+    <li>Created a <strong>GitHub repository</strong> to host the code and requirements</li>
+    <li>Linked the app from a personal <strong>Jekyll website</strong> using a button</li>
+  </ol>
 
 Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
 
@@ -64,77 +78,6 @@ adder(2, 6);
 
 <!--page-->
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-<!--page-->
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 
 
