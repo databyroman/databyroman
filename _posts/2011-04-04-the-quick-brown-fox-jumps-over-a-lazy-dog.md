@@ -3,7 +3,7 @@ date: 2024-03-12 12:26:40
 layout: post
 title: NBA Game ETL & Interactive Dashboard
 subtitle: ETL practice
-description:>-
+description: >-
   In this project I built a complete ETL pipeline— from raw web data to an interactive front-end:
 image: https://res.cloudinary.com/dnk5l7nn0/image/upload/c_fill,w_600,h_338,ar_16:9/v1750105085/20250616_1616_Vintage_NBA_Scoreboard_simple_compose_01jxx6396ze7av3d978yrj5ghb_jenewu.png
 optimized_image: https://res.cloudinary.com/dnk5l7nn0/image/upload/c_fill,w_600,h_338,ar_16:9/v1750105085/20250616_1616_Vintage_NBA_Scoreboard_simple_compose_01jxx6396ze7av3d978yrj5ghb_jenewu.png
