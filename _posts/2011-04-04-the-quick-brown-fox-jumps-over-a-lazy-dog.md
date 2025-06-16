@@ -3,9 +3,10 @@ date: 2024-03-12 12:26:40
 layout: post
 title: NBA Game ETL & Interactive Dashboard
 subtitle: ETL practice
-description:In this project I built a complete ETL pipeline— from raw web data to an interactive front-end:
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
+description:>-
+  In this project I built a complete ETL pipeline— from raw web data to an interactive front-end:
+image: https://res.cloudinary.com/dnk5l7nn0/image/upload/c_fill,w_600,h_338,ar_16:9/v1750105085/20250616_1616_Vintage_NBA_Scoreboard_simple_compose_01jxx6396ze7av3d978yrj5ghb_jenewu.png
+optimized_image: https://res.cloudinary.com/dnk5l7nn0/image/upload/c_fill,w_600,h_338,ar_16:9/v1750105085/20250616_1616_Vintage_NBA_Scoreboard_simple_compose_01jxx6396ze7av3d978yrj5ghb_jenewu.png
 category: ETL
 tags:
   - ETL
@@ -53,7 +54,7 @@ author: Mr.Roman
     <a href="https://github.com/your-username/nba-game-etl" target="_blank" rel="noopener">GitHub</a>,
     making it easy to reproduce, schedule nightly refreshes, or plug into Tableau.
   </p>
-</section>
+
 
 
 
